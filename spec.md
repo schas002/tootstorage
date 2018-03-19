@@ -8,6 +8,8 @@ Version: 0.0.0
 
 Authored by Andrew Zyabin
 
+License: <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>
+
 * * *
 
 ## Disclaimer
